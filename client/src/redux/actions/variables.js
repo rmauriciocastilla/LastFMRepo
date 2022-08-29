@@ -1,0 +1,6 @@
+export const GET_ARTISTS = 'GET_ARTISTS';
+export const GET_ARTIST_DETAIL = 'GET_ARTIST_DETAIL';
+export const CLEAR_DETAIL = 'CLEAR_DETAIL';
+export const GET_TRACK_DETAIL = 'GET_TRACK_DETAIL';
+export const USER_ROLE = 'USER_ROLE';
+export const GET_COMPRAS = 'GET_COMPRAS';

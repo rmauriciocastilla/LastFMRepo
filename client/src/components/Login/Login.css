@@ -1,0 +1,42 @@
+.container-login{
+    margin: auto;
+    text-align: center;
+}
+
+.container-login h2{
+    font-size: 4rem;
+    text-align: center;
+}
+
+.container-login form{
+    width: 20vw;
+    margin: auto;
+}
+
+.input-submit{
+    margin: 10px auto;
+    width: fit-content;
+    padding: 5px;
+    background-color: #00FF6C;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.input-submit:hover{
+    background-color: white;
+}
+
+.button-register{
+    margin: 10px auto;
+    width: fit-content;
+    padding: 5px;
+    background-color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    color: black;
+    font-weight: bold;
+}
+.button-register:hover{
+    color: black;
+    background-color: rgb(190, 190, 190);
+}

@@ -1,0 +1,46 @@
+.Link{
+    color: black;
+    text-decoration: none;
+    display: flex;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.Link:hover{
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+}
+
+.Link{
+    transition: background-color 0.3s linear 0s,color 0.3s linear 0s;
+}
+
+.container{
+    width: 45vw;
+    margin: 5px;
+}
+
+.container-text{
+    display: flex;
+    text-align: center;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.clasification{
+    border-radius: 5px 0px 0px 5px;
+    color: black;
+    border-right: 1px solid black;
+    background-color: #00FF6C;
+    width: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-content{
+    width: 33%;
+    padding: 1px;
+}

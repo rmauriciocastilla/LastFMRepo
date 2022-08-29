@@ -1,0 +1,17 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+.back{
+    position: absolute;
+    top: 12vh;
+    left: 10px;
+}

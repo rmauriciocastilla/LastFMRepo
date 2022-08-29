@@ -1,0 +1,11 @@
+.container-artists{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 10px 0px;
+}
+
+.title-landing{
+    text-align: center;
+    font-size: 4rem;
+}
